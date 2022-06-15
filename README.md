@@ -4,8 +4,8 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/vinistm)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.stm/)
 
-![vinistm GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorschmidt&show_icons=true&theme=tokyonight)
-![vinistm GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![vinistm GitHub stats](https://github-readme-stats.vercel.app/api?username=vinistm&show_icons=true&theme=tokyonight)
+![vinistm GitHub stats](https://github-readme-stats.vercel.app/api?username=vinistm&show_icons=true&theme=radical)
 
 
 ### Tecnologias 
