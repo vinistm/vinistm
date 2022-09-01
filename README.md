@@ -1,4 +1,4 @@
-### < Olá! meu nome é Vincius dos Santos Martins / > 👍
+### < Olá! meu nome é Vinicius dos Santos Martins / > 👍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-martins-b048a4b3/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/vinistm)
